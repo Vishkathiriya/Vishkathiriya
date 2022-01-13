@@ -14,7 +14,7 @@ My preferred projects are the ones that have precise design specs (Figma, Adobe 
 so I can jump right in and code.</span>
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Vishkathiriya/Vishkathiriya/main/profile/guarantee.gif"><img alt="Hug" src="https://raw.githubusercontent.com/Vishkathiriya/Vishkathiriya/main/profile/guarantee.gif" width="60" data-canonical-src="https://raw.githubusercontent.com/Vishkathiriya/Vishkathiriya/main/profile/guarantee.gif" style="max-width: 100%;"></a> <em><b>I am very excited to work with everyone !!! I also provide UX/UI feedback along the way. I usually set up a continuous integration/deployment flow (CI/CD) so that you get instant access to the app's progress and we can iterate fast and efficiently. </em></p>
+
 <hr>
 
     <span>Contact me at: vishkathiriya@gmail.com</span>
